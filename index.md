@@ -8,4 +8,7 @@
 
 ### Updates:
 # This website is not yet finished, which means that you will not yet get to see the updates that are going to be on this website in a few weeks.
-
+ 
+### FAQ:
+# Q: When will this website be finished?
+**This website is excpected to be finished on halloween.**
